@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi there, Im Marwan Hany 👋 (aka. Maro)
 
-<!--
-**marwan-backend/marwan-backend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 Im a passionate **Web & Software Developer**.
+- 🚀 I build web applications, backend systems, Discord bots, and game server scripts.
+- ⚡ Tech Stack: JavaScript, Node.js, Python, and Lua.
+- 📫 How to reach me: [Khamsat / Freelance](https://marwan-hany.vercel.app/)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+- **Languages:** JavaScript, Python, Lua, HTML/CSS.
+- **Backend & Tools:** Node.js, Git, GitHub, VS Code, Termux.
+- **Environments:** Ubuntu Linux, Pterodactyl Panels.
+
+---
+
+### 📊 GitHub Stats
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrwdev&show_icons=true&theme=radical" />
+</p>
